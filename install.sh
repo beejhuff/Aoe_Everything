@@ -1,3 +1,4 @@
+#!/bin/bash
 modman clone https://github.com/fbrnc/Aoe_Scheduler.git
 modman clone https://github.com/fbrnc/Aoe_JsCssTstamp.git
 modman clone https://github.com/fbrnc/Aoe_LogViewer.git
