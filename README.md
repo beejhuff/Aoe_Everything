@@ -8,7 +8,7 @@ How to use
 Copy/paste this from the Magento webroot. Requires modman, and you must run `modman init` prior to running the below:
 
 ```bash
-curl -sS curl -sS https://raw.githubusercontent.com/philwinkle/Aoe_Everything/master/install.sh | /bin/bash | /bin/bash
+curl -sS https://raw.githubusercontent.com/philwinkle/Aoe_Everything/master/install.sh | /bin/bash
 ```
 
 Requirements
